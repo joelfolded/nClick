@@ -6,7 +6,7 @@
 ![OpenSource](https://img.shields.io/badge/Open_Source-Yes-success)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/nCheat-Universal%20Memory%20Modifier-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/nClick-Auto%20Clicker-red?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
 <p align="center">
@@ -38,5 +38,5 @@
 Install dependencies:
 
 ```bash
-none to this date
+pip install pymem customtkinter
 
